@@ -1,0 +1,52 @@
+name: Waitlist signup
+description: "Join the waitlist for The Logo Protocol - Founding Signal (99-pass NFT pilot). Public, auditable, no payment."
+title: "Waitlist: [your handle]"
+labels: ["waitlist"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Founding Signal waitlist
+        This is a **public, auditable interest signup** — not a purchase, not a reservation, not a guarantee of a mint.
+        There is **no mint date**. A mint happens only if the 75-qualified-member demand gate (plus the other four gates) passes.
+        Your issue is counted by the public demand meter on the waitlist page. Zero is a number; honesty is the whole point.
+  - type: input
+    id: handle
+    attributes:
+      label: Handle / contact (optional)
+      description: How should we reach you if the gate passes? (email, X, Discord, Bluesky — anything, or leave blank)
+      placeholder: "@yourhandle or you@example.com"
+    validations:
+      required: false
+  - type: dropdown
+    id: class-interest
+    attributes:
+      label: Which class interests you?
+      description: Visual preference only — every class carries identical membership rights.
+      options:
+        - No preference
+        - Origin (44)
+        - Vector (30)
+        - Phantom (20)
+        - Crown Signal (5, KingCode class)
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why do you want in?
+      description: What membership benefit matters most to you? (Signal Briefs, Studio Drops, early access, polls, office hours…)
+      placeholder: "I'm interested because…"
+    validations:
+      required: true
+  - type: checkboxes
+    id: understanding
+    attributes:
+      label: Confirm your understanding (all required)
+      options:
+        - label: This is a collectible membership pass, not an investment — no music rights, royalties, equity, or profit share.
+          required: true
+        - label: There is no mint date; a mint happens only if the 75-qualified-member demand gate (and the other four gates) passes.
+          required: true
+        - label: The target price band is US$20–30 (target band, not final); final KLV pricing is set before mint, not promised now.
+          required: true
