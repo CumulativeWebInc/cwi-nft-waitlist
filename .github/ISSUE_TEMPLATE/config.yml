@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Demand data (raw JSON)
+    url: https://cumulativewebinc.github.io/cwi-nft-waitlist/data/demand.json
+    about: The public, machine-readable demand snapshot — updated hourly from issues labeled "waitlist".
