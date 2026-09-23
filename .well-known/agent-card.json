@@ -1,0 +1,26 @@
+{
+  "agent_card_version": "1.0",
+  "name": "NFT Waitlist \u2014 The Logo Protocol: Founding Signal",
+  "url": "https://cumulativewebinc.github.io/cwi-nft-waitlist/",
+  "provider": {
+    "name": "Cumulative Web Inc",
+    "url": "https://cumulativeweb.com",
+    "contact": "hp@cumulativeweb.com"
+  },
+  "description": "The official waitlist and demand engine for The Logo Protocol: Founding Signal \u2014 a 99-pass utility-first digital membership pilot by Cumulative Web Inc. Four classes (Origin / Vector / Phantom / Crown Signal), utility calendar, and a hard mint gate: no mint date until 75 qualified waitlist members are recorded plus four further gates (utility calendar, rights, technology, control). Every signup is a public GitHub issue with the waitlist label; the hourly demand engine counts open issues into data/demand.json. No mint, no listing, no payment \u2014 this page measures demand, not sales.",
+  "data_truth": "LIVE \u2014 mint gate CLOSED 0/75, no payments",
+  "documentation": "https://cumulativewebinc.github.io/cwi-nft-waitlist/llms.txt",
+  "content_index": "https://cumulativewebinc.github.io/cwi-nft-waitlist/content.json",
+  "truth_detail": "LIVE. The demand count is real: rendered from data/demand.json, counted hourly from open GitHub issues labeled waitlist. Current count 0/75 \u2014 the mint gate is CLOSED. No mint, no listing, no payment anywhere on this page; the FAQ states no payment, no wallet connection, no obligation. Nothing here enables payments.",
+  "try_links": [
+    {
+      "label": "Join the waitlist (GitHub issue form)",
+      "url": "https://github.com/CumulativeWebInc/cwi-nft-waitlist/issues/new?template=waitlist-signup.yml"
+    },
+    {
+      "label": "Audit the live demand data",
+      "url": "https://cumulativewebinc.github.io/cwi-nft-waitlist/data/demand.json"
+    }
+  ],
+  "updated": "2026-09-23"
+}

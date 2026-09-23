@@ -1,0 +1,31 @@
+# NFT Waitlist — The Logo Protocol: Founding Signal
+
+> The official waitlist for The Logo Protocol: Founding Signal — a 99-pass utility-first membership pilot by Cumulative Web Inc. No mint date until the 75-member demand gate passes. Demand is counted honestly from public GitHub issues — zero is a number.
+
+- Data truth: LIVE — mint gate CLOSED 0/75, no payments
+- Live site: https://cumulativewebinc.github.io/cwi-nft-waitlist/
+- Repo: https://github.com/CumulativeWebInc/cwi-nft-waitlist
+- By: Cumulative Web Inc (https://cumulativeweb.com)
+
+## What this is
+
+The official waitlist and demand engine for The Logo Protocol: Founding Signal — a 99-pass utility-first digital membership pilot by Cumulative Web Inc. Four classes (Origin / Vector / Phantom / Crown Signal), utility calendar, and a hard mint gate: no mint date until 75 qualified waitlist members are recorded plus four further gates (utility calendar, rights, technology, control). Every signup is a public GitHub issue with the waitlist label; the hourly demand engine counts open issues into data/demand.json. No mint, no listing, no payment — this page measures demand, not sales.
+
+## Truth labeling
+
+LIVE. The demand count is real: rendered from data/demand.json, counted hourly from open GitHub issues labeled waitlist. Current count 0/75 — the mint gate is CLOSED. No mint, no listing, no payment anywhere on this page; the FAQ states no payment, no wallet connection, no obligation. Nothing here enables payments.
+
+## Machine-readable endpoints
+
+- llms.txt: https://cumulativewebinc.github.io/cwi-nft-waitlist/llms.txt
+- Agent card: https://cumulativewebinc.github.io/cwi-nft-waitlist/.well-known/agent-card.json
+- content.json: https://cumulativewebinc.github.io/cwi-nft-waitlist/content.json
+- demand.json — live demand snapshot: https://cumulativewebinc.github.io/cwi-nft-waitlist/data/demand.json
+
+## Call to action
+
+Join the waitlist — one click opens a public GitHub issue; no payment, no wallet connection, no obligation. The mint gate stays CLOSED until 75 qualified members are recorded.
+
+## Contact
+
+Business & licensing: hp@cumulativeweb.com (official public contact, Cumulative Web Inc)
