@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "NFT Waitlist (Logo Protocol)",
+  "url": "https://cumulativewebinc.github.io/cwi-nft-waitlist/",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "author": {
+    "@type": "Organization",
+    "name": "Cumulative Web Inc",
+    "url": "https://cumulativeweb.com/"
+  },
+  "description": "Waitlist page for the Logo Protocol NFT pilot; mint gate closed (0/75); no mint, listing, or payment."
+}
