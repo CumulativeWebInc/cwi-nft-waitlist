@@ -10,5 +10,6 @@
     "name": "Cumulative Web Inc",
     "url": "https://cumulativeweb.com/"
   },
-  "description": "Waitlist page for the Logo Protocol NFT pilot; mint gate closed (0/75); no mint, listing, or payment."
+  "description": "Waitlist page for the Logo Protocol NFT pilot; mint gate closed (0/75); no mint, listing, or payment.",
+  "schema_version": "1.0.0"
 }
